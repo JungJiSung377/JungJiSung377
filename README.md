@@ -28,6 +28,12 @@
 * **[KIPS ASK 2025]** Prediction of Mineral Distribution Based on Drilling Core Color Features `2025.11`
 * **[KIPS ASK 2025]** Customer Churn Prediction and Analysis Using LSTM-Based Models `2025.11`
 
+### 📜 Certifications & Licenses
+* **Industrial Safety Engineer** (산업안전기사) `2026.06`
+* **TOEIC Speaking IH** (Intermediate High) `2026.06`
+* **Korean History Proficiency Test (Level 2)** (한국사능력검정시험 2급) `2026.02`
+* **Class 1 Regular Driver's License** (운전면허 1종 보통)
+
 ### 💡 Interests
 * Physics-Informed Neural Networks (PINN) & Reinforcement Learning (PPO)
 * Carbon Capture & Storage (CCS) Geomechanical Risk Assessment
