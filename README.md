@@ -1,4 +1,4 @@
-# Hi I'm Jisung, I'm an Energy Resource & Geophysics Researcher. 🌍👋
+# Hi I'm Jisung, My fields are energy resource engineering and renewable energy. 🌍👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=JungJiSung377&fontSize=70" />
