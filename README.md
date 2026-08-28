@@ -39,6 +39,12 @@
 * Carbon Capture & Storage (CCS) Geomechanical Risk Assessment
 * Geophysics Data Analysis & Resource Exploration AI Models
 
+### 💡 Extracurricular Activity
+* Academic Club (CONVERGENCE SOFTWARE LAB)
+* Collaborated on data‑driven research projects with undergraduate and graduate students
+* Co‑authored and drafted multiple academic research papers
+* Presented key research findings as a primary author at national academic conferences
+
 ---
 
 ## ⚡ Skills
@@ -57,9 +63,10 @@
 ## 🏆 Competitions & Awards
 
 * 🥇 **Best Paper Award** | KIPS ASK 2026 Academic Conference `2026.05`
+* 🎖️ **Excellence Award** | Local Problem-Based Team Project Idea Contest `2025.12`
 * 🥈 **Silver Prize** | Energy Resource Engineering Student Portfolio Competition `2025.11`
 * 🥉 **Bronze Prize** | 28th Engineering Element Design Competition `2025.11`
-* 🎖️ **Excellence Award** | Local Problem-Based Team Project Idea Contest `2025.12`
+* 🥇 **Best Award** | Gangwon Talent Development Camp `2025.07`
 * 🎖️ **Participation Prize** | ACE Startup Idea Fostering Program `2024.10`
 
 ---
