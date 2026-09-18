@@ -23,6 +23,9 @@
 
 ### 📚 Research & Publications
 * **[Bachelor's Thesis]** Current Status and Development Trends of Direct Air Capture (DAC) Technology from a Regeneration Process Perspective `2025.06`
+* **[KIPS ASK 2026]** Rockburst Early Warning Model Using Windowed RMS History and Acoustic Emission Signals `2026.11`
+* **[KIPS ASK 2026]** Analyzing the Structural Factors Behind the Performance Gap between CNNs and GNNs in Wafer Map Defect Pattern Classification `2026.11`
+* **[KIPS ASK 2026]** Implementation of 3D Position Estimation and Harvesting Target Selection Algorithm for Fruit Vegetables `2026.11`
 * **[KIPS ASK 2026]** Stability Evaluation of CO2 Geological Storage Using Deep Learning *(Best Paper Award)* `2026.05`
 * **[KIPS ASK 2026]** Automated Classification of Drilling Core Mineral Species for Efficient Resource Exploration `2026.05`
 * **[KIPS ASK 2025]** Prediction of Mineral Distribution Based on Drilling Core Color Features `2025.11`
@@ -68,7 +71,7 @@
 * 🥉 **Bronze Prize** | 28th Engineering Element Design Competition `2025.11`
 * 🥇 **Best Award** | Gangwon Talent Development Camp `2025.07`
 * 🎖️ **Participation Prize** | ACE Startup Idea Fostering Program `2024.10`
-
+* 🎖️ **Commendation** | Chungyong Top‑Warrior CBR Squad Selection Competition `2022.07`
 ---
 
 ## 📊 GitHub Stats
