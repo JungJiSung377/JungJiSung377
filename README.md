@@ -21,6 +21,15 @@
 * **B.S. in Energy Resource Engineering**, Kangwon National University `2020.03 ~ 2026.08 (Expected)`
   * Cumulative GPA: **3.6 / 4.5** (Percentage Score: 91/100)
 
+### 🎓 Research Experience
+* **Computational Energy Materials Laboratory**, Yonsei University `2026.09 ~ Present`
+* Conducting first principles calculations and ab initio molecular dynamics simulations using VASP
+* Studying machine learning assisted materials discovery methods
+
+* **Future Energy Laboratory**, Kangwon National University `2024.11 ~ 2025.06`
+* Experimental research on gas hydrate phase equilibria and crystal structure verification
+* Foundational synthesis of Metal‑Organic Frameworks (MOFs) for carbon capture
+
 ### 📚 Research & Publications
 * **[Bachelor's Thesis]** Current Status and Development Trends of Direct Air Capture (DAC) Technology from a Regeneration Process Perspective `2025.06`
 * **[KIPS ASK 2026]** Rockburst Early Warning Model Using Windowed RMS History and Acoustic Emission Signals `2026.11`
